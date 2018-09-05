@@ -2,6 +2,7 @@
   "name": "chatql-ui-react",
   "module": "src/index.js",
   "main": "build/main.js",
+  "description": " documentation https://juicycleff.github.io/chatql-ui-react/",
   "homepage": "https://juicycleff.github.io/chatql-ui-react/",
   "version": "0.1.0",
   "scripts": {
