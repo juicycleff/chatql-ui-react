@@ -1,8 +1,6 @@
 # chatql-ui-react
 
-A component library template based on [create-react-app](https://github.com/facebook/create-react-app). Including documentation. This template is used by [generator-react-exhibit](generator-react-exhibit).
-
-View it live [here](https://au-re.github.io/react-exhibit-template/).
+A react chat and general UI kit for Chatql
 
 ## Tech Stack
 
@@ -23,9 +21,6 @@ We recomend installing **node** throught [nvm](https://github.com/creationix/nvm
 updating [npm](https://www.npmjs.com/) to version >=5.
 
 ## Getting started
-
-You will need [Yeoman](http://yeoman.io/) installed to use this generator.
-You can install both with the following commands:
 
 ```sh
 npm install
@@ -83,22 +78,6 @@ npm run build:storybook
 ```
 
 This will create a folder called `storybook-static` with your documentation.
-
-### Deploy
-
-After building your documentation, you can deploy it as a gh-page.
-Make sure to add a homepage entry in your `package.json` like so:
-
-```json
-{
-  "homepage": "https://juicycleff.github.io/chatql-ui-react/",
-}
-```
-
-Then simply run:
-```sh
-npm run deploy
-```
 
 You can also publish your library to `npm`. To do that, simply run:
 
